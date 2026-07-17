@@ -82,13 +82,6 @@ Deploying honeypots to analyze attacker behavior and improve defensive capabilit
 
 ---
 
-## 📜 Certifications
-
-- Oracle Cloud Infrastructure Foundations Associate
-- Cisco Networking Basics
-
----
-
 ## 💡 Philosophy
 
 > *"The best defense starts with understanding how attackers think."*
